@@ -1,1 +1,7 @@
+# typescript map files
+*.map
+
+# webstorm build files
+.idea/
+
 .vscode/
